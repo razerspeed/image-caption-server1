@@ -6,3 +6,4 @@ torchvision==0.9.1+cpu
 pandas==1.2.4
 Flask==2.0.1
 Pillow==8.2.0
+gunicorn==20.0.4
