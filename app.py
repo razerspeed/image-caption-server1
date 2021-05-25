@@ -61,7 +61,7 @@ def get_vector(t_img):
 # ‘/’ URL is bound with hello_world() function.
 def hello_world():
     # return 'Hello World'
-    return jsonify({'status': 'Server 1 is UP ...'})
+    return "Hello this is the new version!"
 
 
 @app.route('/foo', methods=['POST'])
